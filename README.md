@@ -19,7 +19,7 @@ What are the Total Games Played by Each Player in descending order (Based on lis
 
 
 Files:
-Project#1_Part2 (1).ipynb: Jupyter Labs file where the website is being scraped and the data is taken in and converted to a pandas table and then transfered to a matplotlibs/seaborns plot, answering 5 of the questions.
+Project-2---Web-Scraped-Data-Analysis-and-Visualizations.ipynb: Jupyter Labs file where the website is being scraped and the data is taken in and converted to a pandas table and then transfered to a matplotlibs/seaborns plot, answering 5 of the questions.
 
 
 
